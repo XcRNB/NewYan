@@ -52,6 +52,7 @@ local Settings = {
     ToggleCheckWall = "检查墙体",
     ToggleClosestOnly = "最近目标",
     ToggleCheckTeam = "队伍检查",
+    ToggleCheckDead = "检测死亡",
     TextBoxSearchScript = "输入游戏名称",
     ButtonGetServerName = "获取当前服务器名称",
     ButtonGetAPIResult = "获取API返回值",
